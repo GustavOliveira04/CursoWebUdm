@@ -216,6 +216,14 @@ nav {
 	background-color: #4b1111;
 }
 
+/* .recommendedplan:hover {
+	border: 2px solid #ff0000;
+	border-radius: 1px;
+	height: 500px;
+	width: 500px;
+	transition: width 2s, height 2s;
+} */
+
 /* search domain */
 .searchdomain-container {
 	background-color: #1f2325;
